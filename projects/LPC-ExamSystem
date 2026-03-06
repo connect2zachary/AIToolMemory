@@ -1,1 +1,169 @@
+{
+  "system_metadata": {
+    "system_name": "LPC Comprehensive Exam Prep",
+    "version": "1.3",
+    "state": "Active",
+    "user_goal": "Pass Colorado Comprehensive Exam and prepare for LPC pathway",
+    "primary_learning_style": "Image-based encoding + contrast discrimination + rapid retrieval",
+    "preserve_associations_exactly": true
+  },
+
+  "global_training_principles": {
+    "encoding_rule": "Image first, label second. Never override initial symbolic association.",
+    "contrast_rule": "Similar theories must be exaggerated and contrasted.",
+    "retrieval_rule": "Rapid recall strengthens consolidation more than rereading.",
+    "error_rule": "Mistakes refine discrimination, not indicate knowledge deficit.",
+    "exam_rule": "Determine whether question tests cause, intervention, diagnosis, or lens.",
+    "trust_rule": "First symbolic image is usually correct. Avoid second-guessing.",
+    "memory_model": "User encodes meaning and pattern first, labels second.",
+    "confidence_model": "Retrieval hesitation does not equal lack of knowledge."
+  },
+
+  "learning_preferences": {
+    "prioritize_high_yield_exam_distinctions": true,
+    "flag_exam_traps_explicitly": true,
+    "include_differential_comparisons": true,
+    "emphasize_pattern_recognition_over_memorization": true
+  },
+
+  "theory_expansion_protection": {
+    "theory_expansion_priority": true,
+    "instruction": "After diagnosis training, explicitly return to additional theorists (Adler, Jung, Satir, Haley, White, de Shazer).",
+    "preserve_associations_exactly": true,
+    "do_not_overwrite_existing_images": true
+  },
+
+  "core_theorist_associations": {
+
+    "Bowlby": {
+      "full_name": "John Bowlby",
+      "core_word": "Connection",
+      "image": "A baby rolling a bowling ball BY the pins with mom praising her.",
+      "anchors": [
+        "Attachment system activation",
+        "Secure base",
+        "Internal working model",
+        "Proximity seeking",
+        "Anxious attachment",
+        "Avoidant attachment",
+        "Disorganized attachment"
+      ],
+      "trigger_question": "Is the attachment system activated?"
+    },
+
+    "Bowen": {
+      "full_name": "Murray Bowen",
+      "core_word": "Anxiety Flow Through Generations",
+      "image": "A calm man shooting a bow into the past.",
+      "anchors": [
+        "Differentiation of self",
+        "Triangles",
+        "Genogram",
+        "Multigenerational transmission",
+        "Emotional cutoff"
+      ],
+      "trigger_question": "Where is anxiety moving in this system?"
+    },
+
+    "Minuchin": {
+      "full_name": "Salvador Minuchin",
+      "core_word": "Structure",
+      "image": "Solid chin = solid structure.",
+      "anchors": [
+        "Boundaries",
+        "Hierarchy",
+        "Enmeshment",
+        "Disengagement",
+        "Enactments"
+      ],
+      "trigger_question": "Who is in charge? How are the boundaries?"
+    },
+
+    "Beck": {
+      "full_name": "Aaron Beck",
+      "core_word": "Evidence",
+      "image": "Check mark.",
+      "anchors": [
+        "Automatic thoughts",
+        "Cognitive distortions",
+        "Core beliefs",
+        "Socratic questioning"
+      ],
+      "trigger_question": "What evidence supports this thought?"
+    },
+
+    "Ellis": {
+      "full_name": "Albert Ellis",
+      "core_word": "Irrational Musts",
+      "images": [
+        "Yell-iss — loud philosopher yelling about irrational beliefs.",
+        "Ill Is — holding a sign that says 'ILL IS what happens when you demand irrationally.'"
+      ],
+      "anchors": [
+        "Must",
+        "Should",
+        "Ought",
+        "Demandingness",
+        "Self-disturbance",
+        "Disputation"
+      ],
+      "trigger_question": "Are you disturbing yourself with rigid demands?"
+    },
+
+    "Rogers": {
+      "full_name": "Carl Rogers",
+      "core_word": "Acceptance",
+      "image": "Warm cardigan and glowing heart.",
+      "anchors": [
+        "Unconditional positive regard",
+        "Empathy",
+        "Congruence",
+        "Non-directive therapy"
+      ],
+      "trigger_question": "Does the client feel deeply understood?"
+    },
+
+    "Freud": {
+      "full_name": "Sigmund Freud",
+      "core_word": "Unconscious Conflict",
+      "image": "Couch and iceberg.",
+      "anchors": [
+        "Defense mechanisms",
+        "Transference",
+        "Repression",
+        "Id",
+        "Ego",
+        "Superego"
+      ],
+      "trigger_question": "What is being defended against?"
+    }
+  },
+
+  "theory_core_distinctions": {
+    "Freud_vs_Bowlby": "Conflict vs Connection",
+    "Bowen_vs_Minuchin": "Anxiety Flow vs Structure",
+    "Beck_vs_Ellis": "Evidence vs Irrational Demands",
+    "CBT_vs_Attachment": "Thought distortion vs Relational template"
+  },
+
+  "diagnosis_modules_completed": [
+    "Major Depressive Disorder",
+    "Persistent Depressive Disorder",
+    "Adjustment Disorder",
+    "Bipolar I",
+    "Bipolar II",
+    "Cyclothymic Disorder",
+    "Psychotic Features",
+    "Somatic Delusion",
+    "Delusional Disorder (Somatic Type)",
+    "Borderline vs Bipolar Differential"
+  ],
+
+  "continuation_marker": {
+    "last_topic": "Borderline vs Bipolar high-yield differentiation",
+    "next_topic": "Anxiety Disorders — high-yield exam distinctions",
+    "training_mode": "Pattern recognition + exam traps + differential diagnosis emphasis",
+    "resume_instruction": "Begin with differentiation of GAD, Panic Disorder, Social Anxiety Disorder, Specific Phobia, OCD."
+  }
+}
 
