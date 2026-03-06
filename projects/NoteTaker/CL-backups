@@ -1,1 +1,93 @@
+[
+  {
+    "client_id": "CL-0001",
+    "initials": "BT",
+    "created_date": "2026-02-21",
+    "status": "active",
+    "sessions": [
+      {
+        "session_id": "S-0001",
+        "session_date": "2026-02-20",
+        "note_type": "SOAP",
+        "subjective": "Client reported three critical items previously identified in intake paperwork: history of suicidal ideation (SI), substance use concerns, and workplace dissatisfaction. Client stated that SI has not occurred in some time and did not present as an immediate concern during session. Client reported previous binge drinking but indicated that for some time alcohol consumption has been limited to approximately one to two drinks per week. Regarding workplace dissatisfaction, client denied any desire to harm others. Client discussed a longstanding history of depressive symptoms, reportedly present since adolescence. Client questioned whether prior medication use during that period may have contributed to mood changes. Client described increased awareness of depressive symptoms after others began noticing changes in mood and affect. Client reported engaging in multiple interventions in the past, including social involvement, medication, and therapy. Client expressed ongoing thoughts related to meaning, personal value, and self-worth, noting that self-worth appears connected to financial success. Client rated current sense of self-worth between 4 and 6 out of 10. Client reported having a supportive network.",
+        "objective": "Client appeared present and willing to engage. Client presented with a positive mood. Client’s attire was clean, and client appeared well groomed and put together.",
+        "assessment": "Client presents with ongoing depressive symptoms of longstanding duration. No immediate safety concerns reported or observed during session. Client demonstrates insight into mood patterns and contributing factors. Themes of existential reflection and self-worth appear clinically relevant.",
+        "plan": "Client reported wanting to further discuss self-worth, thoughts related to death and life meaning, and themes related to sin. Therapist intends to explore client’s values to support meaning-making and self-worth reflections. Therapist is considering further assessment of depressive symptom duration and impact, exploring cognitive connections between self-worth and external achievement, and continuing to monitor safety and substance use patterns.",
+        "oq_assessment": "Client scored 48 on the OQ. Critical items 8, 11, and 44 were discussed. No further concerns at this time.",
+        "created_date": "2026-02-21",
+        "last_updated": "2026-02-21"
+      },
+      {
+        "session_id": "S-0002",
+        "session_date": "2026-02-21",
+        "session_time": "10:00",
+        "note_type": "SOAP",
+        "subjective": "Client discussed difficulty with trust and connection. Client described multiple recent experiences involving illness and death within close relationships. Client described a distressing memory related to father’s death, including being present shortly before father passed and being asked to assist with post-mortem care. Client discussed feelings of isolation and loss of support following conflict within a men’s group, which had previously served as a safe space.",
+        "objective": "Client engaged in detailed reflection regarding recent losses and interpersonal conflict. Client appeared emotionally affected when discussing father’s death and relational dynamics within peer group.",
+        "assessment": "Client presents with grief-related themes, existential reflection, and concerns regarding connection and belonging. Multiple recent losses appear to contribute to increased focus on mortality and meaning.",
+        "plan": "Therapist intends to continue exploring themes of grief, meaning, and relational dynamics. Therapist is thinking about how to broach the possibility of client returning to the men’s group, particularly since the other member no longer attends. Therapist is also thinking about discussing additional ways for client to meet new people. Therapist would like to discuss client’s values, as this may support exploration of existential themes.",
+        "oq_assessment": "OQ assessment was not completed or reviewed during this session.",
+        "created_date": "2026-02-22",
+        "last_updated": "2026-02-22"
+      }
+    ],
+    "metadata": {}
+  },
+  {
+    "client_id": "CL-0002",
+    "initials": "KL",
+    "created_date": "2026-02-21",
+    "status": "active",
+    "sessions": [
+      {
+        "session_id": "S-0001",
+        "session_date": "2026-02-20",
+        "note_type": "SOAP",
+        "subjective": "Client did not have intake paperwork completed at time of session. Suicidal ideation was assessed, and client denied current SI. Client discussed feelings of shame related to a recent relapse involving stimulant use. Client reported that substance use was associated with a desire to function on 'auto pilot' and increase productivity. Client expressed distress regarding how family members perceived the relapse. Client reported attending AA for substance use support. Client shared a belief that others deserve grace by default but described difficulty extending that same grace to self. Client discussed relational themes involving mother, including perceived difficulty receiving approval. Client expressed pride in professional role and belief that work contributes positively to others.",
+        "objective": "Client engaged in session and openly discussed recent relapse and associated emotional responses. Client appeared reflective when discussing family perceptions and themes related to self-worth. Client appeared upbeat and willing to engage. Client appeared well groomed and put together.",
+        "assessment": "Client presents with substance use relapse and associated shame. No current suicidal ideation reported. Themes of self-criticism, external validation, and relational dynamics appear relevant.",
+        "plan": "Client expressed interest in discussing frustration and fatigue related to work and further exploration of relational themes. Therapist is considering discussion of coping strategies related to stress and relapse prevention.",
+        "oq_assessment": "OQ assessment was not completed or reviewed during this session.",
+        "created_date": "2026-02-21",
+        "last_updated": "2026-02-21"
+      },
+      {
+        "session_id": "S-0002",
+        "session_date": "2026-02-21",
+        "session_time": "12:00",
+        "note_type": "SOAP",
+        "subjective": "Client stated that at times he does not trust his own thinking. Client discussed relationship with food, including periods of restricted eating combined with increased exercise. Client described eating restrictions as stress-related and referred to this pattern as 'stress starving.' Client reported currently working with a therapist specializing in eating disorders and a nutritionist. Client discussed a tendency to feel the need to remain constantly productive. Client acknowledged difficulty engaging in self-care activities and reported challenges setting work boundaries, often feeling obligated to work and perceiving that others are working harder. Client expressed concerns related to work safety. Client discussed anticipatory stress regarding meeting girlfriend’s parents due to political differences and reported preparing arguments in advance, which appears to increase stress. Client described feeling a need to protect personal values while also feeling guarded. Client referenced internal parts work and described a critical part that can be dominant and self-critical, while also viewing this part as protective. Client identified cooking and mountain biking as activities that help with stress.",
+        "objective": "Client engaged in reflective discussion regarding stress patterns, eating behaviors, work-related pressures, and interpersonal stressors. Client appeared thoughtful when discussing internal critical patterns and coping strategies.",
+        "assessment": "Client presents with stress-related eating patterns, perfectionistic tendencies, and elevated work-related stress. Themes of self-criticism, productivity pressure, and anticipatory interpersonal stress appear clinically relevant. Client demonstrates insight into internal patterns and protective mechanisms.",
+        "plan": "Client is interested in further discussing relationship themes and potentially engaging in additional parts work. Therapist would like to accommodate this interest in future sessions.",
+        "oq_assessment": "OQ assessment was not completed or reviewed during this session.",
+        "created_date": "2026-02-22",
+        "last_updated": "2026-02-22"
+      }
+    ],
+    "metadata": {}
+  },
+  {
+    "client_id": "CL-0003",
+    "initials": "DM",
+    "created_date": "2026-02-21",
+    "status": "active",
+    "sessions": [
+      {
+        "session_id": "S-0001",
+        "session_date": "2026-02-22",
+        "session_time": "10:00",
+        "note_type": "SOAP",
+        "subjective": "Client discussed concerns regarding boss who also serves as mentor and friend. Client expressed concern about recent behavior changes that feel out of character and speculated that these changes may be related to boss’s advanced age. Client reported working at the company for 12 years and feeling highly invested in its success. Client described feeling responsible for employees under her supervision and conflicted about addressing concerns with boss due to potential professional and relational consequences. Client reported recently establishing boundaries with boss and noted positive impact of these boundaries on family and personal relationships. Client wondered whether boundary setting may have affected boss’s perception of her, describing recent interactions as reactive and brief. Client described feeling caught between remaining silent and initiating a potentially impactful conversation. Client expressed a desire for boss to retire. Client reported appreciating the opportunity to process these concerns in therapy, stating she has limited outlets to discuss this situation.",
+        "objective": "Client engaged in thoughtful discussion regarding workplace dynamics and relational concerns. Client appeared invested in professional role and reflective about interpersonal boundaries.",
+        "assessment": "Client presents with workplace-related stress and relational conflict involving a supervisory figure. Themes of responsibility, boundary setting, loyalty, and fear of interpersonal fallout appear clinically relevant. Client demonstrates insight into competing values and emotional responses.",
+        "plan": "Therapist intends to continue exploring workplace boundaries, relational dynamics, and decision-making processes. Therapist is thinking about discussing communication strategies and potential approaches to navigating conflict while maintaining personal values.",
+        "oq_assessment": "OQ assessment was not completed or reviewed during this session.",
+        "created_date": "2026-02-22",
+        "last_updated": "2026-02-22"
+      }
+    ],
+    "metadata": {}
+  }
+]
 
